@@ -1,0 +1,612 @@
+{{österreichbezogen}}{{Dieser Artikel|beschreibt das österreichische Bundesland Steiermark. Weitere Bedeutungen finden sich unter [[Steiermark (Begriffsklärung)]].}}
+{{Infobox Bundesland in Österreich
+| Name = Steiermark
+| Flagge-Link = 
+| Wappen-Link = Steirisches Wappen
+| Flagge = Flag of Steiermark.svg
+| Wappen = Steiermark Wappen.svg
+| Sprache = [[Österreichisches Deutsch|Deutsch]]
+| Hauptstadt = [[Graz]]
+| Größte Stadt = Graz
+| Hymne = [[Dachsteinlied]]
+| Nummer = 6
+| Kürzel = ST
+| Website = www.verwaltung.steiermark.at
+| Landfläche = 16.251,13 km² (99,1 %)
+| Wasserfläche = {{0|00.}}147,61 km² {{0}}(0,9 %)
+| Rang Fläche = 2
+| Koordinaten = 46°36′ – 47°43′N<br />013°34′ – 016°10′E
+| Ausdehnung NS = 135.3
+| Ausdehnung WO = 196.1
+| Höchster Punkt = [[Dachstein (Berg)|Hoher Dachstein]]
+| Höhe höchster Punkt = 2995
+| Tiefster Punkt = [[Mur (Fluss)|Mur]] östlich von [[Bad Radkersburg]]
+| Höhe tiefster Punkt = 200
+| Bezirksliste = Liste der politischen Bezirke der Steiermark
+| Statutarstädte = 1
+| Bezirke = 12
+| Gerichtsbezirke = 15
+| Gemeinden = 286
+| Städte = 35
+| Marktgemeinden = 122
+| Bezirkskarte = {{Imagemap Bezirke von Steiermark|Einbindung=zentriert|Maße=300px}}
+| Rang Einwohner = 4
+| Ausländeranteil = 11,5 % <small>(1. Jänner 2020)</small><ref name="Ausl">{{Internetquelle |url=https://www.statistik.at/fileadmin/pages/407/Bev_Staatsangeh_Bundesl_seit_2002.ods |titel=Bevölkerung am 1.1.2020 nach detaillierter Staatsangehörigkeit und Bundesland |hrsg=Statistik Austria |datum=2020-07-06 |abruf=2020-10-19}}</ref>
+| Migrationshintergrund = 18,1 % <small>(Ø 2023)</small><ref name="Migr">{{Internetquelle |url=https://www.statistik.at/fileadmin/pages/435/Tabellensammlung_Migrationshintergrund__2021.ods |titel=Bevölkerung zu Jahresbeginn nach detaillierter Staatsangehörigkeit seit 2002 (Steiermark) |hrsg=Statistik Austria |datum=2022-05-27 |abruf=2022-06-11}}</ref>
+| Landeshauptmann = [[Christopher Drexler]] ([[Österreichische Volkspartei|ÖVP]])
+| Regierende Parteien = [[Österreichische Volkspartei|ÖVP]] und [[Sozialdemokratische Partei Österreichs|SPÖ]]
+| Sitzverteilung = 
+{{Sitzverteilung
+| Land = AT
+| Beschriftung = Sitze
+| Legende = 80
+|KPÖ|SPÖ|GRÜNE|NEOS|ÖVPvor2017|FPÖ
+| ÖVPvor2017 = 18
+| SPÖ  = 12
+| FPÖ  = 8
+| GRÜNE= 6
+| KPÖ  = 2
+| NEOS = 2
+}}
+| Letzte Wahl = [[Landtagswahl in der Steiermark 2019|24. November 2019]]
+| Nächste Wahl= [[Landtagswahl in der Steiermark 2024|voraussichtlich 2024]]{{Zukunft|2024}}
+| BIP = 49,6
+| BIP pro Kopf = 40.000
+| BIP-Jahr = 2018
+| BIP-Ref = <ref name="bip">{{Internetquelle |url=https://www.statistik.at/web_de/statistiken/wirtschaft/volkswirtschaftliche_gesamtrechnungen/regionale_gesamtrechnungen/nuts2-regionales_bip_und_hauptaggregate/index.html |titel=Regionales BIP und Hauptaggregate nach Wirtschaftsbereichen und Bundesländern (NUTS&nbsp;2), Tabelle: Bruttoregionalprodukt nominell 2000-2018 nach Bundesländern, absolut und je Einwohner |hrsg=Statistik Austria |datum=2019-12-10 |abruf=2020-10-18}}</ref>
+| Arbeitslosenquote = 5,4 % <small>(Juni 2021)</small><ref name="Arbeitsmarktdaten 06/2022">[https://www.ams.at/content/dam/download/arbeitsmarktdaten/%C3%B6sterreich/berichte-auswertungen/001_eckdaten_0622.xls ''Arbeitsmarktdaten 06/2022''], Arbeitsmarktservice Österreich</ref>
+}}
+
+Die '''Steiermark''' ist ein [[Land (Österreich)|Bundesland]] der [[Österreich|Republik Österreich]]. Das flächenmäßig zweit- und bevölkerungsmäßig viertgrößte Bundesland grenzt an die übrigen österreichischen Bundesländer [[Kärnten]], [[Land Salzburg|Salzburg]], [[Oberösterreich]], [[Niederösterreich]] und das [[Burgenland]], sowie im Süden an die [[Slowenien|Republik Slowenien]]. Haupt- und bevölkerungsreichste Stadt der Steiermark ist [[Graz]], welche zudem auch die zweitgrößte Stadt ganz Österreichs ist. [[Demonym]] und Adjektiv sind ''Steirer'' und ''steirisch''.
+
+== Geografie ==
+{{Panorama|Nordoststeiermark Panorama.jpg|900|{{center|Panoramabild der Oststeiermark, aufgenommen von der Ringwarte am [[Ringkogel]] – Der Blick am Horizont reicht vom [[Wechsel (Berg)|Hochwechsel]] (ganz links), über die [[Bucklige Welt (Niederösterreich)|Bucklige Welt]] und das [[Hartberg]]er Land bis weit hinein in das [[Burgenland]] zum Geschriebenstein und nach [[Ungarn]]. Mittig der Ort Grafendorf bei Hartberg}}}}
+Das Bundesland Steiermark hat eine Fläche von 16.398,74&nbsp;km²<ref>Stand 31. Dezember 2018, [http://www.bev.gv.at/pls/portal/url/ITEM/34C0B6E5E552857FE050010A1F213304 CSV-Datei aus ''REGIONALINFORMATION.zip''&nbsp;(1.221&nbsp;kB)]{{Toter Link |url=http://www.bev.gv.at/pls/portal/url/ITEM/34C0B6E5E552857FE050010A1F213304 |date=2023-01 }}; abgerufen am 12. Jänner 2019.</ref> und ist damit das zweitgrößte Bundesland Österreichs. Es verfügt über eine 145&nbsp;km lange Außengrenze mit Slowenien, womit es&nbsp;– abgesehen vom Ausnahmefall [[Wien]]&nbsp;– das Bundesland mit der geringsten Grenzlänge an das Ausland ist. Die Binnengrenze zu den angrenzenden Bundesländern beträgt 870&nbsp;km.
+
+Die Steiermark ist in zwei resp. vier Regionen gegliedert. Flächenmäßig am größten ist die [[Obersteiermark]], die von den nördlichen Landesgrenzen bis zum [[Steirisches Randgebirge|Steirischen Randgebirge]] südlich der [[Mur-Mürz-Furche]] reicht. Der andere Teil ist die [[Mittelsteiermark]], welche in neuerer Zeit auch in [[Weststeiermark]], [[Oststeiermark (Planungsregion)|Oststeiermark]] und [[Südsteiermark]] gegliedert wird. Die Weststeiermark liegt südlich der Obersteiermark und westlich der Mur. Die [[Oststeirisches Hügelland|Oststeiermark]] liegt östlich der Mur und südlich des Wechsels und der [[Fischbacher Alpen]]. Zwischen Ost- und Weststeiermark liegt die Landeshauptstadt Graz. Seit jüngerer Zeit wird das Gebiet der Landeshauptstadt Graz und des [[Bezirk Graz-Umgebung|Bezirkes Graz-Umgebung]] ebenfalls als Mittelsteiermark bezeichnet. Dieses Gebiet ist geografisch weder der Ost- noch der Weststeiermark zuzuordnen. Diese Einteilung der Steiermark, der zufolge große Teile der Obersteiermark westlicher als die Weststeiermark liegen, stiftet manchmal bei Nichtkundigen Verwirrung. Sie rührt aus der Zeit vor dem Ersten Weltkrieg her, als Ost- und Weststeiermark zusammen die „Mittelsteiermark“ bildeten, während die Untersteiermark das gemischtsprachige deutsch-slowenische Gebiet mit der Hauptstadt Marburg an der Drau (slowenisch [[Maribor]]) war. Dieses kam nach dem Ende des Ersten Weltkrieges zum [[Königreich Jugoslawien]] und gehört heute zu Slowenien. Der südliche Landesteil ab etwa der Linie [[Deutschlandsberg]]&nbsp;– [[Leibnitz]]&nbsp;– [[Bad Radkersburg]] wird Südsteiermark genannt und ist nicht mit der Untersteiermark zu verwechseln. Umgangssprachlich jedoch wird (zumindest in der Obersteiermark) heute noch oft die Südsteiermark mit der Untersteiermark namentlich gleichgesetzt.
+
+Die Steiermark wird im Volksmund auch die „Grüne Mark“ oder die „Eherne Mark“ (i.e. Eiserne Mark) und&nbsp;–  im [[Tourismus in Österreich|Tourismus]]&nbsp;– das „[[Das grüne Herz Österreichs|Grüne Herz Österreichs]]“ genannt, da rund 61&nbsp;Prozent ihrer Bodenfläche [[Wald|bewaldet]] sind und ein weiteres Viertel von [[Wiese (Grünland)|Wiesen]], [[Weide (Grünland)|Weiden]] sowie [[Obstbau|Obst-]] und [[Weinbau|Weingärten]] eingenommen wird.
+
+Das im Norden des Landes befindliche [[Enns (Fluss)|Ennstal]] mit seinen schroffen Felsen, vom [[Dachstein (Berg)|Dachstein]] bis zum Nationalpark [[Gesäuse]], und die Gebirgsplateaus zwischen [[Hochschwab]] und [[Rax]] machten die Steiermark auch als alpines Bundesland bekannt. In diesem Gebiet befindet sich mit der [[Hochwildstelle]] (auch Hohe Wildstelle) mit {{Höhe|2747|AT}} der höchste Berg, der zur Gänze auf steirischem Landesgebiet liegt. Der Süden des Landes ist größtenteils hügelig (Weinbaugebiet), das [[Grazer Feld|Grazer]] und [[Leibnitzer Feld]] entlang der Mur ist dagegen eben.
+
+Der Hauptfluss der Steiermark ist die [[Mur (Fluss)|Mur]], die im Salzburger [[Bezirk Tamsweg|Lungau]] entspringt, bald danach in der westlichen Obersteiermark bei [[Predlitz-Turrach|Predlitz]] die Landesgrenze passiert und bis [[Bruck an der Mur]] in vorwiegend östliche Richtung fließt. Dort macht der Fluss eine Biegung und verläuft bis an die [[Grenze zwischen Österreich und Slowenien|slowenische Grenze]] bei [[Spielfeld (Steiermark)|Spielfeld]] in südliche Richtung. Ab dort fließt die Mur wieder in östliche Richtung bis [[Bad Radkersburg]] und bildet dabei die Grenze zum südlichen Nachbarstaat. Die Länge der Mur auf steirischem Gebiet beträgt 290,9&nbsp;km.
+
+Der größte See der Steiermark ist der [[Grundlsee (See)|Grundlsee]] mit 4,3&nbsp;km².
+
+2021 wurde die Grenze zwischen dem Burgenland und der Steiermark im Bereich [[Burgauberg-Neudauberg]] und [[Neudau]] geändert. Auslöser für diese Grenzverschiebung waren der Hochwasserschutz und die damit verbundene Regulierung der [[Lafnitz (Fluss)|Lafnitz]]. Die Steiermark wurde zu Gunsten des Burgenlandes um 6000 Quadratmeter kleiner.<ref name="orf3116218">{{Internetquelle |url=https://burgenland.orf.at/stories/3116218/ |titel=Burgenland ist größer geworden |werk=[[ORF.at]] |datum=2021-08-09 |abruf=2021-08-09}}</ref>
+
+{{Siehe auch|Landschaftsgliederung der Steiermark}}
+
+<gallery class="center" widths="240" heights="160">
+Datei:Sausal vineyard landscape.jpg|Weinlandschaft im [[Sausal (Region)|Sausal]]
+Datei:Grimming von Hintereggeralm.jpg|Der [[Grimming]] im [[Dachsteingebirge]]
+Datei:16-07-06-Rathaus Graz Turmblick-RR2 0275.jpg|Die steirische Landeshauptstadt [[Graz]]
+Datei:Stubenberg Stubenbergsee.jpg|Der [[Stubenbergsee]] ist ein künstlicher Badesee im [[Bezirk Hartberg-Fürstenfeld]]. Blickrichtung Norden, am unteren Bildrand tritt die [[Feistritz (Lafnitz)|Feistritz]] in die Feistritzklamm.
+Datei:3 Seen Blick Ausseerland BHO-5034 (cropped).jpg|Drei-Seen-Blick im [[Steirisches Salzkammergut|steirischen Salzkammergut]]
+Datei:Eisenerz (17).jpg|Am [[Erzberg]] bei [[Eisenerz (Steiermark)|Eisenerz]] wird seit Jahrhunderten Bergbau betrieben.
+Datei:Feistritztalbahn at Weiz.jpg|Auf der [[Feistritztalbahn]] kann man auch einen Sonderzug mit Dampflok mieten, rechts im Hintergrund die [[Weizbergkirche]]
+Datei:2006-07 roseggers waldheimat 08.JPG|Das [[Kluppeneggerhof|Geburtshaus]] des steirischen Dichters [[Peter Rosegger]]
+</gallery>
+
+=== Effekte der globalen Erwärmung ===
+Jüngste Temperaturstudien legen nahe, dass insbesondere die Oststeiermark besonders anfällig für die [[globale Erwärmung]] ist. So stieg seit 1960 die jährliche Durchschnittstemperatur um drei Grad an, was dem doppelten Wert anderer Regionen entspricht.<ref name="orf-166192">{{Internetquelle |autor= |url=https://stmv1.orf.at/magazin/immergutdrauf/tipps/stories/166192/ |titel=Kommt der Klimawandel? |werk= |hrsg=ORF |datum= |abruf=2020-01-07}}</ref> Laut [[Gottfried Kirchengast]] werden sich diese Trends gerade im Alpenraum und in der Steiermark in Zukunft noch verstärken, so dass es unter anderem möglich sei, dass Flüsse wie die [[Raab (Fluss)|Raab]] in manchen Sommern kein Wasser mehr führen.<ref name="orf-166192" />
+
+{| class="wikitable float-right sortable zebra"
+|+ Die zehn flächengrößten Gemeinden
+|-
+! Rang !! Stadt/Gemeinde<br /><small>Gebietsstand: 2020</small> !! Bezirk !! Fläche in km²<br /><small>({{FLD|AT}})</small>
+|-
+| {{0}}1 || [[Mariazell]] || BM
+| style="text-align:right" | {{FLdez|AT|62142|2}}
+|-
+| {{0}}2 || [[Admont]] || LI
+| style="text-align:right" | {{FLdez|AT|61253|2}}
+|-
+| {{0}}3 || [[Sölk]] || LI
+| style="text-align:right" | {{FLdez|AT|61266|2}}
+|-
+| {{0}}4 || [[Neuberg an der Mürz]] || BM
+| style="text-align:right" | {{FLdez|AT|62144|2}}
+|-
+| {{0}}5 || [[Pölstal]] || MT
+| style="text-align:right" | {{FLdez|AT|62044|2}}
+|-
+| {{0}}6 || [[Stadl-Predlitz]] || MU
+| style="text-align:right" | {{FLdez|AT|61445|2}}
+|-
+| {{0}}7 || [[Landl]] || LI
+| style="text-align:right" | {{FLdez|AT|61258|2}}
+|-
+| {{0}}8 || [[Schladming]] || LI
+| style="text-align:right" | {{FLdez|AT|61265|2}}
+|-
+| {{0}}9 || [[Oberwölz]] || MU
+| style="text-align:right" | {{FLdez|AT|61440|2}}
+|-
+| 10 || [[Rottenmann]] || LI
+| style="text-align:right" | {{FLdez|AT|61263|2}}
+|}
+
+=== Verwaltungsgliederung ===
+==== Statutarstadt ====
+* Landeshauptstadt [[Graz]]
+
+==== Bezirke ====
+{{Hauptartikel|Liste der politischen Bezirke der Steiermark}}
+Im Zuge von Verwaltungsreformen entstanden durch [[Liste der politischen Bezirke der Steiermark#Bezirksfusionen|Bezirksfusionen]] 2012 der Bezirk ''Murtal'' (Zusammenlegung der ehemaligen Bezirke Judenburg und Knittelfeld) und 2013 die Bezirke ''Bruck-Mürzzuschlag'' (aus Bruck an der Mur und Mürzzuschlag), ''Hartberg-Fürstenfeld'' (aus Hartberg und Fürstenfeld) sowie ''Südoststeiermark'' (aus Feldbach und Radkersburg).
+{| class="wikitable sortable zebra"
+|-
+! Bezirk !! Verwaltungssitz !! Fläche in km²<br /><small>({{FLD|AT}})</small>
+! Einwohner<br /><small>({{EWD|AT|6}})</small>{{EWR|AT|6}}
+! [[Kfz-Kennzeichen (Österreich)|Kfz-Kennzeichen]]
+|-
+| [[Bezirk Bruck-Mürzzuschlag|Bruck-Mürzzuschlag]]<ref group="A">Entstand am 1. Jänner 2013 durch Zusammenlegung der Bezirke [[Bezirk Bruck an der Mur|Bruck an der Mur]] und [[Bezirk Mürzzuschlag|Mürzzuschlag]]</ref>
+| [[Bruck an der Mur]]
+| style="text-align:right"| {{FL|AT|621|2}}
+| style="text-align:right"|{{EWZ|AT|621}}
+| {{Metadaten Kfz-Kennzeichen AT|62100}}<!--mit 00 belassen!-->
+|-
+| [[Bezirk Deutschlandsberg|Deutschlandsberg]]
+| [[Deutschlandsberg]]
+| style="text-align:right"| {{FL|AT|603|2}}
+| style="text-align:right"|{{EWZ|AT|603}}
+| {{Metadaten Kfz-Kennzeichen AT|603}}
+|-
+| [[Liste der Stadtbezirke von Graz|Graz]]<ref group="A">Graz ist als [[Statutarstadt (Österreich)|Stadt mit eigenem Statut]] sowohl Gemeinde als auch Bezirk gleichzeitig.</ref>
+| [[Graz]]
+| style="text-align:right"| {{FL|AT|601|2}}
+| style="text-align:right"|{{EWZ|AT|601}}
+| {{Metadaten Kfz-Kennzeichen AT|601}}
+|-
+| [[Bezirk Graz-Umgebung|Graz-Umgebung]]
+| [[Graz]]
+| style="text-align:right"| {{FL|AT|606|2}}
+| style="text-align:right"|{{EWZ|AT|606}}
+| {{Metadaten Kfz-Kennzeichen AT|606}}
+|-
+| [[Bezirk Hartberg-Fürstenfeld|Hartberg-Fürstenfeld]]<ref group="A">Entstand am 1. Jänner 2013 durch Zusammenlegung der Bezirke [[Bezirk Hartberg|Hartberg]] und [[Bezirk Fürstenfeld|Fürstenfeld]]</ref>
+| [[Hartberg]]
+| style="text-align:right"| {{FL|AT|622|2}}
+| style="text-align:right"|{{EWZ|AT|622}}
+| {{Metadaten Kfz-Kennzeichen AT|62200}}<!--mit 00 belassen!-->
+|-
+| [[Bezirk Leibnitz|Leibnitz]]
+| [[Leibnitz]]
+| style="text-align:right"| {{FL|AT|610|2}}
+| style="text-align:right"|{{EWZ|AT|610}}
+| {{Metadaten Kfz-Kennzeichen AT|610}}
+|-
+| rowspan="2"| [[Bezirk Leoben|Leoben]]
+| rowspan="2"| [[Leoben]]
+| style="text-align:right" rowspan=2 | {{FL|AT|611|2}}
+| style="text-align:right" rowspan=2 | {{EWZ|AT|611}}
+| LE = Stadt Leoben
+|-
+| LN = alle Gemeinden außer der Stadt Leoben
+|- class="hintergrundfarbe5"
+| [[Bezirk Liezen|Liezen]]
+| [[Liezen]] ||style="text-align:right"| {{FL|AT|612|2}}
+| style="text-align:right"| {{EWZ|AT|612}}
+| LI = ''Bereich'' Liezen<br /><small>(alt: tw. BA = [[Politische Expositur Bad Aussee|Expositur Bad Aussee]] bis Ende 2011)</small>
+|- class="hintergrundfarbe5"
+| data-sort-value="LiezenZ"| – ''davon''<br />[[Politische Expositur Gröbming|Expositur Gröbming]]
+| [[Gröbming]] ||style="text-align:right"|''954,85''
+| style="text-align:right"|''23.045''|| GB = ''Bereich'' Gröbming
+|-
+| [[Bezirk Murau|Murau]]
+| [[Murau]] ||style="text-align:right"| {{FL|AT|614|2}}
+| style="text-align:right"|{{EWZ|AT|614}}
+| {{Metadaten Kfz-Kennzeichen AT|614}}
+|-
+| [[Bezirk Murtal|Murtal]]<ref group="A">Entstand am 1. Jänner 2012 durch Zusammenlegung der Bezirke [[Bezirk Judenburg|Judenburg]] und [[Bezirk Knittelfeld|Knittelfeld]]</ref>
+| [[Judenburg]] ||style="text-align:right"| {{FL|AT|620|2}}
+| style="text-align:right"|{{EWZ|AT|620}}
+| {{Metadaten Kfz-Kennzeichen AT|62000}}<!--mit 00 belassen!-->
+|-
+| [[Bezirk Südoststeiermark|Südoststeiermark]]<ref group="A">Entstand am 1. Jänner 2013 durch Zusammenlegung der Bezirke [[Bezirk Feldbach|Feldbach]] und [[Bezirk Radkersburg|Radkersburg]]</ref>
+| [[Feldbach (Steiermark)|Feldbach]]
+| style="text-align:right"| {{FL|AT|623|2}}
+| style="text-align:right"|{{EWZ|AT|623}}
+| {{Metadaten Kfz-Kennzeichen AT|62300}}<!--mit 00 belassen!-->
+|-
+| [[Bezirk Voitsberg|Voitsberg]]
+| [[Voitsberg]]
+| style="text-align:right"| {{FL|AT|616|2}}
+| style="text-align:right"|{{EWZ|AT|616}}
+| {{Metadaten Kfz-Kennzeichen AT|616}}
+|-
+| [[Bezirk Weiz|Weiz]]
+| [[Weiz]] ||style="text-align:right"| {{FL|AT|617|2}}
+| style="text-align:right"|{{EWZ|AT|617}}
+| {{Metadaten Kfz-Kennzeichen AT|617}}
+|}
+Anmerkung:
+<references group="A" />
+
+== Geschichte ==
+{{Hauptartikel|Geschichte der Steiermark}}
+
+Ursprünglich war das Gebiet [[Kelten|keltisch]] besiedelt. Im 6.&nbsp;Jahrhundert siedelten sich [[Slawen]] aus dem Osten an. Um die Mitte des 8.&nbsp;Jhs. baten sie den [[Bajuwaren|bajuwarischen]] Herzog [[Odilo (Bayern)|Odilo]] um Unterstützung im Kampf gegen die [[Awaren]]. Die Bajuwaren waren siegreich und lebten mit den Slawen auf dem steirischen Gebiet von nun an Seite an Seite. Die genaue Verteilung der Bevölkerungsgruppen zur damaligen Zeit ist schwer nachzuzeichnen. Aus der Zeit um 1030 sind Dokumente mit den Namen aller Einwohner von [[Scheifling]] und Lind erhalten. Der Großteil der Namen ist slawisch. Die deutschen Siedler dürften im [[Hochmittelalter]] noch eine Minderheit dargestellt haben. Weil die hohen Posten mit deutschsprachigen Siedlern besetzt wurden, setzte sich das Deutsche immer mehr durch. An vielen Ortsnamen ist heute noch die slawische Vergangenheit abzulesen.<ref>{{Literatur |Autor=Fritz Frhr. Lochner von Hüttenbach |Titel=Zum Namengut des Frühmittelalters in der Steiermark |Reihe=Zeitschrift des Historischen Vereines für Steiermark |BandReihe=99 |Verlag=Böhlau Verlag |Ort=Wien |Datum=2008 |Seiten=30–31; 42–43 |Online=https://www.historischerverein-stmk.at/wp-content/uploads/Z_Jg99_Fritz-Freiherr-LOCHNER-VON-H%C3%9CTTENBACH-Zum-Namengut-des-Fr%C3%BChmittelalters-in-der-Stmk.pdf?sequence=1&isAllowed=y |KBytes=16825}}</ref>
+
+1056 wurde die Steiermark (''Steyr'' resp. ''Steyer'') zur Markgrafschaft und 1180 unter den [[Traungauer]]n schließlich auch zum [[Herzogtum]] erhoben und die lehnsrechtlichen Bindungen an die [[Geschichte Bayerns#Das baierische Stammesherzogtum|Herzogtümer Bayern]] und [[Geschichte Kärntens#Herzogtum Kärnten|Kärnten]] gelöst.
+
+Aufgrund eines 1186 mündlich abgeschlossenen (in der [[Georgenberger Handfeste]] dokumentierten) Erbvertrages wurden die Herzöge von Österreich aus der Dynastie der [[Babenberger]] 1192 Herzöge von Steyer, also der Steiermark (bis 1246).
+
+Nach dem Aussterben der Babenberger gelangte die Steiermark zunächst an Ungarn, 1261 an Böhmen. Im [[Frieden von Ofen]] wurde 1254 der mit der Steiermark verbundene [[Traungau]] abgetrennt und dem neu entstehenden „Fürstenthum ob der Enns“ (Oberösterreich) zugeschlagen. Gleichzeitig wurde auch die zur Steiermark gehörige [[Grafschaft Pitten]] ausgegliedert und an das [[Geschichte Österreichs#Herzogtum Österreich unter den Babenbergern (1156–1246)|Herzogtum Österreich]], das damals ungefähr dem heutigen Niederösterreich entsprach, angeschlossen.
+
+1282 gelangte das Herzogtum Steyer ([[Herzogtum Steiermark]]) gemeinsam mit dem Herzogtum Österreich an das Adelshaus [[Habsburg]]. Die Grafschaft Pitten wurde 1281 erneut Teil der Steiermark und erst zu Beginn des 16. Jahrhunderts endgültig dem Herzogtum Österreich angegliedert. Im Zuge der habsburgischen Erbteilungen wurde die Steiermark der zentrale Teil [[Innerösterreich]]s (mit der Residenz Graz).
+
+[[Datei:023 Grenzmaut zwischen Kärnten und Steiermark bei der Ruine Dürnstein - J.F.Kaiser Lithografirte Ansichten der Steiermark 1825.jpg|mini|Grenzmaut zwischen Kärnten und Steiermark, um 1820, Lith. Anstalt J.F.&nbsp;Kaiser, Graz]]
+
+1918 wurde durch Entscheid der dortigen Abgeordneten, 1919 folglich gemäß den Bestimmungen des [[Vertrag von Saint-Germain|Vertrages von Saint-Germain]] der südliche Teil des Herzogtums, die [[Untersteiermark]], abgetrennt und dem [[Königreich Jugoslawien]], aus dem später die Republik [[Jugoslawien]] wurde, angeschlossen und ist seit 1991, nach deren Auflösung, ein bedeutender Teil der Republik [[Slowenien]].
+
+1938, nach dem [[Anschluss Österreichs|„Anschluss“ Österreichs]] an das Deutsche Reich, wurde das im äußersten Nordwesten des Bundeslandes liegende [[Ausseerland]] nach Oberösterreich („Oberdonau“) ausgegliedert und im Gegenzug das südliche Burgenland der Steiermark zugeschlagen. Nach dem Ende des [[Zweiter Weltkrieg|Zweiten Weltkrieges]] wurden diese Gebietsveränderungen rückgängig gemacht; so wurde das Ausseerland am 1.&nbsp;Juli 1948<ref>[http://www.land-oberoesterreich.gv.at/cps/rde/xchg/SID-093B6611-C809A3A2/ooe/hs.xsl/13772_DEU_HTML.htm ''Homepage > Unser Land > Landesgeschichte > Chronik > 1948.''] In: ''land-oberoesterreich.gv.at''</ref> wieder der Steiermark angeschlossen. Im Mai 1945 wurde die Steiermark von sowjetischen Truppen besetzt, kam von September 1945 bis Sommer 1955 unter [[Vereinigtes Königreich|britische]] Verwaltung.
+
+=== Name ===
+Der Name ''Steiermark'' leitet sich vom Fluss [[Steyr (Fluss)|Steyr]] (heute in Oberösterreich) ab, dem das [[keltisch]]e Ausgangswort ''Stiria'' zugrunde lag. Es bedeutet ‚die Aufstauuende, die Stehende‘ aufgrund des Rückstaus bei hohem Wasserstand der Enns. Der Name ging auf Orte usw. über, erstmals belegt auf der [[Tabula Peutingeriana]] aus dem 4. Jahrhundert mit einer Siedlung namens ''Stiriate'' (beim heutigen Liezen), die wohl die Hauptstadt des Keltenstammes der Stiriates war.<ref>{{Literatur |Autor=Albrecht Greule |Titel=Deutsches Gewässernamenbuch |Verlag=Walter de Gruyter |Ort=Berlin |Datum=2014 |ISBN=978-3-11-033859-1 |Seiten=514}}</ref> Der Name ging auch auf [[Steyr]] und die dort erstmals 985 erwähnte Styraburg, das heutige [[Schloss Lamberg]], über, wo die [[Traungauer]] Grafen damals ihren Sitz hatten. Die aus der Familie der Traungauer stammenden Markgrafen von Steyr haben entscheidend zur Entstehung der Steiermark beigetragen. Auf die gemeinsame Geschichte der Stadt und des Landes weisen noch das gemeinsame Wappen, der silberne, rot gewaffnete und gehörnte, flammenspeiende, aufgerichtete [[Panther (Wappentier)|Panther]] auf Grün hin. Der Wortteil ''-mark'' weist auf die Eigenschaft als Grenzgebiet (siehe [[Mark (Territorium)|Mark]]) hin, was sich aus der [[Mark an der Mur]] erklärt.
+
+Der [[Duden]] und das [[Österreichisches Wörterbuch|Österreichische Wörterbuch]] führen ''steirisch'' und ''steiermärkisch'' als [[Synonym]]e. Im örtlichen Sprachgebrauch jedoch wird ''steiermärkisch'' vorwiegend als Namensbestandteil von Behörden, Ämtern, Unternehmen und Vereinen verwendet.
+
+=== Bevölkerung ===
+* Der Bevölkerungsstand der Steiermark am {{EWD|AT|6}} war: {{EWZ|AT|6}} Einwohner
+* Geschlechtsverteilung: 50,6 % weiblich, 49,4 % männlich
+* Altersstufen (2017): 18,2 % unter 20 Jahre alt, 20,1 % ab 65&nbsp;Jahre alt
+* Lebenserwartung bei Geburt (2017): 79,2 Jahre für Männer; 84,1&nbsp;Jahre für Frauen
+* Anzahl der Familien 2012: 346.200
+* Durchschnittliche Kinderzahl pro Familie mit Kindern 2012:&nbsp;1,60
+
+=== Bevölkerungsentwicklung ===
+{{Zeitleiste Bevölkerungsentwicklung Steiermark}}
+Einschließlich der [[Untersteiermark]] hatte die Steiermark im Jahr 1900 insgesamt 1.356.494&nbsp;Einwohner.
+
+=== Städte und Gemeinden ===
+{{Hauptartikel|Liste der Gemeinden in der Steiermark|Liste der Marktgemeinden in der Steiermark}}
+
+{| class="wikitable float-right sortable zebra" style="text-align:right"
+|+ Die 13 Gemeinden mit über 10.000 Einwohnern
+|-
+! Rang !! Stadt-/Marktgemeinde<br /><small>Gebietsstand: 2020</small> !! Einwohner<br /><small>{{EWD|AT|6}}</small>{{EWR|AT|6}}
+|-
+| 1 || style=text-align:left | [[Graz]]
+| {{EWZ|AT|60101}}
+|-
+| 2 || style=text-align:left | [[Leoben]]
+| {{EWZ|AT|61108}}
+|-
+| 3 || style=text-align:left | [[Kapfenberg]]
+| {{EWZ|AT|62140}}
+|-
+| 4 || style=text-align:left | [[Bruck an der Mur]]
+| {{EWZ|AT|62139}}
+|-
+| 5 || style=text-align:left | [[Feldbach (Steiermark)|Feldbach]]
+| {{EWZ|AT|62379}}
+|-
+| 6 || style=text-align:left | [[Leibnitz]]
+| {{EWZ|AT|61053}}
+|-
+| 7 || style=text-align:left | [[Gratwein-Straßengel]]<sup>M</sup>
+| {{EWZ|AT|60664}}
+|-
+| 8 || style=text-align:left | [[Knittelfeld]]
+| {{EWZ|AT|62041}}
+|-
+| 9 || style=text-align:left | [[Seiersberg-Pirka]]
+| {{EWZ|AT|60669  }}
+|-
+| 10 || style=text-align:left | [[Weiz]]
+| {{EWZ|AT|61766}}
+|-
+| 11 || style=text-align:left | [[Deutschlandsberg]]
+| {{EWZ|AT|60344}}
+|-
+| 12 || style=text-align:left | [[Gleisdorf]]
+| {{EWZ|AT|61760}}
+|-
+| 13 || style=text-align:left | [[Trofaiach]]
+| {{EWZ|AT|61120}}
+|- class="hintergrundfarbe5"
+| colspan=3 style=text-align:left | <small><sup>M</sup> = Marktgemeinde</small>
+|}
+
+=== Ballungsräume ===
+==== Graz ====
+[[Datei:Graz clock tower1.jpg|mini|Der [[Grazer Uhrturm|Uhrturm]] ist das Wahrzeichen der steirischen Landeshauptstadt Graz (Blickrichtung Süden).]]
+{{Hauptartikel|Graz}}
+
+Der größte Ballungsraum der Steiermark ist die Landeshauptstadt Graz mit {{EWZ|AT|60101}} Einwohnern. In der Agglomeration wohnen circa 320.000 Menschen (Hauptwohnsitz). Das Einzugsgebiet der Stadt umfasst über 700.000&nbsp;Menschen und reicht von der südlichen Obersteiermark über das [[Grazer Feld]] ins Südburgenland bis nach Nordslowenien. Besonders die Nachbargemeinden [[Seiersberg-Pirka]], [[Feldkirchen bei Graz]], [[Gössendorf]] und [[Kalsdorf bei Graz|Kalsdorf]] werden immer größer.
+
+==== Mur-Mürz-Furche ====
+[[Datei:Blick auf Leoben 2009.jpg|mini|Die Altstadt von [[Leoben]] liegt in einer Schleife der [[Mur (Fluss)|Mur]], des bedeutendsten Flusses der Steiermark. Blickrichtung Südosten]]
+{{Hauptartikel|Mur-Mürz-Furche}}
+
+Die größten Städte der [[Mur-Mürz-Furche]] sind [[Leoben]], [[Bruck an der Mur]] und [[Kapfenberg]]. Hier befindet sich das Zentrum der Schwerindustrie. Zusammen mit ihrem Einzugsgebiet bilden sie den zweiten Ballungsraum der Steiermark mit circa 150.000&nbsp;Einwohnern.
+
+==== Aichfeld ====
+{{Hauptartikel|Aichfeld}}
+
+Das Aichfeld als westlicher Teil der Mur-Mürz-Furche befindet sich im oberen Murtal und bildet mit den Gemeinden [[Knittelfeld]], [[Judenburg]], [[Fohnsdorf]], [[Zeltweg]] und [[Spielberg (Steiermark)|Spielberg]] den dritten steirischen Ballungsraum. Im Einzugsgebiet leben etwa 44.000&nbsp;Menschen.
+
+Weiters befindet sich hier der [[Red Bull Ring]] und mit dem [[Fliegerhorst Hinterstoisser]] der größte militärische Flugplatz Österreichs.
+
+=== Sprachen ===
+==== Deutsche Dialekte ====
+In der Steiermark werden [[bairisch]]e Dialekte gesprochen. Sie gehören zum größeren Teil dem [[Mittelbairische Dialekte|Mittelbairischen]] und zum kleineren Teil dem [[Südbairischer Dialekt|Südbairischen]] an.<ref>[[Peter Wiesinger]]: ''Ergebnisse dialektologischer Beschreibungen: areale Bereiche deutscher Dialekte im Überblick.'' In: ''Dialektologie. Ein Handbuch zur deutschen und allgemeinen Dialektforschung.'' Hrsg. von [[Werner Besch]], [[Ulrich Knoop]], [[Wolfgang Putschke]], [[Herbert Ernst Wiegand]]. Zweiter Halbband. Walter de Gruyter, Berlin&nbsp;/ New York 1983, S.&nbsp;107–900, hier besonders 836–842.</ref>
+
+==== {{Anker|Minderheit}} Slowenisch ====
+Die Volkszählung von 2001 ergab 2.192 österreichische Steirer mit slowenischer Muttersprache. Sie sind seit 2004 als Minderheit laut [[Österreichischer Staatsvertrag|Staatsvertrag]] (regelt maßgeblich die Minderheitenrechte der Slowenen und Kroaten in Österreich) anerkannt und haben daher im Volksgruppenbeirat Sitz und [[Stimmrecht]].<ref>{{Internetquelle |autor=STATISTIK AUSTRIA |url=https://www.statistik.at/fileadmin/publications/Volkszaehlung_2001__Hauptergebnisse_I_-_OEsterreich.pdf#page=18 |titel=Volkszählung {{!}} Hauptergebnisse - Österreich 2001 |werk=STATISTIK AUSTRIA |hrsg=STATISTIK AUSTRIA |datum=2002 |sprache=Deutsch |abruf=2024-08-14}}</ref> Hinzu kommen in [[Slowenien]] geborene, also in die heutige Steiermark zugewanderte Slowenen. Laut der Landesstatistik Steiermark traf dies im Jahr 2011 auf 6.911 Personen zu.<ref>Das Land Steiermark. Abteilung&nbsp;7 (Landes- und Gemeindeentwicklung), Referat Statistik und Geoinformation: {{Webarchiv |url=http://www.statistik.steiermark.at/cms/dokumente/11971510_103034692/695a2c69/Publikation%201-2014-Internet.pdf |text=''Registerzählung 2011 – Bevölkerung, Haushalte, Familien'' |wayback=20140727042630}}. Graphik&nbsp;28, S.&nbsp;57 (58)</ref>
+
+=== Religion ===
+Bei der Volkszählung 2001 wurden bei einer Gesamtbevölkerung von 1.183.303&nbsp;Einwohnern erhoben:
+* 961.630 (81,0 %) Katholiken, zuständig ist die [[Diözese Graz-Seckau]];
+* 117.589 {{0}}(9,9 %) ohne religiöses Bekenntnis,
+* {{0}}51.005 {{0}}(4,3 %) evangelisch, die durch die [[Evangelische Superintendentur A.&nbsp;B. Steiermark]] betreut werden; als Hochburg gilt das obere Ennstal, und insbesondere die Gemeinde [[Ramsau am Dachstein|Ramsau]] mit 78,1 %.
+* {{0}}19.007 {{0}}(1,6 %) islamisch,
+* {{0}}16.345 {{0}}(1,4 %) ohne Angabe,
+* jeweils unter einem Promille lag der Anteil der Altkatholiken (1.183) sowie der Juden&nbsp;(161), die durch die [[IKG&nbsp;Graz]] betreut werden.
+* {{0}}16.383 {{0}}(1,4 %) bekannten sich zu allen anderen Religionsgemeinschaften.
+
+Bis 1938 gab es in der Steiermark mehrere jüdische Gemeinden mit Synagogen in Bad Aussee, Bad Gleichenberg, Graz, Judenburg und Leoben.<ref>{{Internetquelle |url=http://www.archive.org/stream/diejudeninsteie00baumgoog#page/n1/mode/2up/ |titel=Synagogen Internet Archiv |abruf=2012-12-31}}</ref><ref>{{Internetquelle |url=http://www.statistik.at/web_de/statistiken/bevoelkerung/volkszaehlungen_registerzaehlungen/bevoelkerung_nach_demographischen_merkmalen/022885.html |titel=Bevölkerung nach dem Religionsbekenntnis und Bundesländern 1951 bis 2001 |hrsg=[[Statistik Austria]] |archiv-url=https://web.archive.org/web/20120808212458/http://www.statistik.at/web_de/statistiken/bevoelkerung/volkszaehlungen_registerzaehlungen/bevoelkerung_nach_demographischen_merkmalen/022885.html |abruf=2012-09-18}}</ref>
+
+== Politik ==
+Die Steiermark ist ähnlich wie [[Oberösterreich]] ein „[[Swingstate|Schaukelstaat]]“, der bei bundesweiten Wahlen meist Signalcharakter besitzt. Die [[Österreichische Volkspartei|ÖVP]] (in der Steiermark: [[Steirische Volkspartei]]) dominiert in den ländlich geprägten Gebieten der Süd- und Oststeiermark, die [[SPÖ Steiermark|SPÖ]] in den Industrieregionen der Obersteiermark und in den Bahnknotenpunkten. Aber auch die [[Freiheitliche Partei Österreichs|FPÖ]] ist in der Steiermark traditionell stark verankert.
+In der Landespolitik dominierte die ÖVP, welche bis auf den Zeitraum von 2005 bis 2015 alle Landeshauptleute stellte und lange Zeit auch auf die Politik der Bundes-ÖVP und die Kür von deren Parteiobmännern einen sehr starken Einfluss ausübte. Die steirische Landesgruppe galt innerparteilich mit einigen „Vordenkern“ als eher [[Liberalismus|liberal]] ausgerichtet, hat ihre starke Stellung jedoch in den letzten<!--unpassende Formulierung--> 20 Jahren sukzessive an [[Niederösterreich]] verloren. Im Zeitraum 2005 bis 2015 stellte die SPÖ mit [[Franz Voves]] den Landeshauptmann.
+
+=== Landesregierung ===
+[[Datei:GRAZLHS.jpg|mini|hochkant|Arkadenhof des [[Grazer Landhaus]]es]]
+[[Datei:Logo Land Steiermark.svg|mini|Logo des Bundeslandes Steiermark]]
+
+Die acht Sitze der seit 4. Juli 2022 amtierenden [[Landesregierung Drexler]] wurden im Rahmen einer [[Koalitionsvertrag|Koalitionsvereinbarung]] vergeben.
+
+Sitzverteilung: 5 ÖVP, 3&nbsp;SPÖ:
+{{Farblegende|#000| [[Christopher Drexler]], Landeshauptmann (ÖVP)}}
+{{Farblegende|#F00| [[Anton Lang (Politiker, 1959)|Anton Lang]], Erster Landeshauptmann-Stellvertreter (SPÖ)}}
+{{Farblegende|#000| [[Werner Amon]], Landesrat (ÖVP)}}
+{{Farblegende|#000| [[Barbara Eibinger-Miedl]], Landesrätin (ÖVP)}}
+{{Farblegende|#F00| [[Doris Kampus]], Landesrätin (SPÖ)}}
+{{Farblegende|#000| [[Karlheinz Kornhäusl]], Landesrat (ÖVP)}}
+{{Farblegende|#F00| [[Ursula Lackner]], Landesrätin (SPÖ)}}
+{{Farblegende|#000| [[Simone Schmiedtbauer]], Landesrätin (ÖVP)}}
+{{Siehe auch|Liste der Landesregierungen der Steiermark}}
+
+Der Landesregierung ist die Landesverwaltung untergeordnet. Sie besteht aus dem ''Amt der Steiermärkischen Landesregierung'', das in 17 Abteilungen gegliedert ist, sowie den 13 steirischen [[Bezirkshauptmannschaft]]en. An der Spitze der Verwaltung steht der [[Landesamtsdirektor]].
+
+{{Siehe auch|Liste der Landesamtsdirektoren der Steiermark}}
+
+=== Landtag ===
+Der [[Landtag Steiermark]] besteht aus 48&nbsp;Mitgliedern. Seit der [[Landtagswahl in der Steiermark 2019|Landtagswahl]] am 24.&nbsp;November 2019 lautet die Mandatsverteilung:
+* 18 [[Österreichische Volkspartei|ÖVP]] (Steirische Volkspartei)
+* 12 [[Sozialdemokratische Partei Österreichs|SPÖ]]
+* 8 [[Freiheitliche Partei Österreichs|FPÖ]]
+* 6 [[Die Grünen – Die Grüne Alternative|Die Grünen]]
+* 2 [[Kommunistische Partei Österreichs|KPÖ]]
+* 2 [[NEOS – Das Neue Österreich und Liberales Forum|NEOS]]
+{{Siehe auch|Ergebnisse der Landtagswahlen in Österreich#Landtag in der Steiermark|titel1=Ergebnisse der Landtagswahlen in der Steiermark}}
+
+=== Euregio Graz-Maribor ===
+{{Hauptartikel|Euregio Graz-Maribor}}
+
+Das Gebiet umfasst die südliche Steiermark und das nördliche Slowenien. In der Region leben circa 1,61&nbsp;Millionen Menschen. Durch bilaterale Zusammenarbeit soll ein starker Wirtschaftsraum entstehen. Es wird aber auch im gesellschaftlichen und kulturellen Bereich zusammengearbeitet.
+
+=== Landeshymne ===
+Seit 1929 ist das ''[[Dachsteinlied]]'', das mit den Worten {{" |Hoch vom Dachstein an&nbsp;…}} beginnt, offizielle Landeshymne der Steiermark. Obwohl&nbsp;– entgegen der politischen Realität&nbsp;– in der ersten Strophe auf das nicht mehr zum Bundesland gehörige Gebiet der Untersteiermark Bezug genommen wird, wurde der Text bis heute nicht geändert.
+
+== Wirtschaft und Infrastruktur ==
+Die Steiermark ist ein Land der Unternehmer mit einem stark ausgeprägten industriell-gewerblichen Sektor, Leuchtturmprojekten im Tourismus sowie über die Grenzen hinaus bekannten landwirtschaftlichen Produkten.
+
+Mit rund einem Drittel leistet der produzierende Sektor den größten Beitrag zur regionalen Wertschöpfung, gefolgt von den wirtschaftsnahen Dienstleistungen, dem Handel und dem Bankensektor. Die wichtigsten Arbeitgeber sind die wiederum die produzierenden Unternehmen, die öffentliche Verwaltung und der Handel.<ref name=":0">Stärkefeldmatrix Steiermark 2018, Zusammenfassender Projektbericht. Innoregio Styria, 2018, S.&nbsp;11</ref> Die Steiermark hat in den vergangenen Jahren ihre Position als Innovationsland Nummer eins in Österreich weiter ausgebaut. Mit einer Forschungs- und Entwicklungsquote von 4,7 % zählt die Steiermark unter den 274&nbsp;Regionen Europas zu den innovativsten. Insgesamt werden in der Steiermark pro Jahr rund 1,75&nbsp;Milliarden Euro in Forschung und Entwicklung investiert, drei Viertel dieser Investitionen tätigen die heimischen Unternehmen.<ref name=":0" />
+
+Besonders der schnell wachsende Ballungsraum Graz mit seiner Vielzahl an innovativen, exportorientierten Unternehmen und die Mur-Mürz-Furche mit ihren traditionellen Industriebetrieben leisten einen wertvollen Beitrag dazu. Darüber hinaus ist die Steiermark die Heimat von fünf Universitäten (Karl-Franzens-Universität<ref>{{Internetquelle |url=https://www.uni-graz.at/de/ |titel=Universität Graz |abruf=2022-03-16}}</ref>, Technische Universität Graz<ref>{{Internetquelle |url=https://www.tugraz.at/ |titel=TU Graz |sprache=de |abruf=2022-03-16}}</ref>, Medizinische Universität Graz<ref>{{Internetquelle |url=https://www.medunigraz.at/en/ |titel=Medical University of Graz {{!}} |sprache=en |abruf=2022-03-16}}</ref>, Kunstuniversität Graz<ref>{{Internetquelle |autor=University Package Team |url=https://www.kug.ac.at/ |titel=Kunstuniversität Graz |sprache=de |abruf=2022-03-16}}</ref>, Montanuniversität Leoben<ref>{{Internetquelle |url=https://www.unileoben.ac.at/ |titel=Montanuniversität Leoben |abruf=2022-03-16}}</ref>), zwei Fachhochschulen (FH&nbsp;Joanneum, FH&nbsp;Campus&nbsp;02), zwei Pädagogischen Hochschulen und einer Vielzahl an außeruniversitären Forschungseinrichtungen&nbsp;– eine Kombination, die sich positiv auf die Wettbewerbsfähigkeit heimischer Unternehmen auswirkt.
+
+Dies sind alles Mitgründe, warum die Steiermark 2013 den Titel „Europäische Unternehmerregion“ trug. Mit dieser Auszeichnung würdigt die EU jedes Jahr Regionen, die eine besonders zukunftsorientierte Wirtschaftspolitik umsetzen.<ref>Wirtschaftsbericht 2013: [http://www.wibis-steiermark.at/_uploads/_elements/1404231742__2683_file1.pdf wibis-steiermark.at] S.&nbsp;IV, [Stand 6. August 2014].</ref>
+
+Im Fokus der zukünftigen Wirtschaftsstrategie des Landes stehen die Bereiche Mobilität, Grüne Technologie (Eco-Tech) sowie Medizin- und Lebensmitteltechnologie (Health-Tech).<ref>Wirtschaftsstrategie 2020, Wachstum durch Innovation <nowiki>http://www.wirtschaft.steiermark.at/cms/dokumente/10430090_12858597/002b1fe7/WiSt%20Steiermark%202020_Wachstum%20durch%20Innovation.pdf</nowiki></ref>
+
+=== Industrie ===
+Die wichtigsten [[Wirtschaftszweig]]e der Industrie in der Steiermark sind die Maschinen- und Metallwarenindustrie, die Fahrzeugindustrie, die Elektro- und Elektronikindustrie sowie der Bereich Papier und Holz. Die steirische Industrie ist stark exportorientiert. Drei Viertel der in der Steiermark produzierten Produkte werden ins Ausland verkauft&nbsp;– in manchen Wirtschaftszweigen sind es bis zu 99 Prozent (z.&nbsp;B. Mikrochips). Die wichtigsten Absatzmärkte sind Deutschland, Italien, die Vereinigten Staaten und China. Knapp 600 Industriebetriebe sichern mit ihrem Netzwerk mehr als die Hälfte der steirischen Arbeitsplätze.
+
+Zusätzlich bildet die Industrie 3000&nbsp;Jugendliche zu Fachkräften aus.<ref>{{Internetquelle |url=https://www.dieindustrie.at/ |titel=die Industrie {{!}} Infos für Ausbildung und Unterricht aus erster Hand, gebündelt auf der Informationsplattform der steirischen Industrie |abruf=2019-06-27}}</ref> Eine der wichtigsten Zukunftsfragen für die steirischen Betriebe ist es, auch in Zukunft technisch qualifizierte Mitarbeiter zu finden.<ref>{{Internetquelle |url=https://www.faszination-technik.at/ |titel=Faszination Technik {{!}} Kinder und Jugendliche für Technik und Naturwissenschaften begeistern |abruf=2019-06-28}}</ref> Die steirischen Industriebetriebe sind zu einem großen Teil stark technologieorientiert, und so können sich viele Betriebe Europa- oder Weltmarktführer in ihrem Bereich nennen.
+
+=== Unternehmensgruppen ===
+Der [[Autocluster Steiermark|steirische Mobilitätscluster ACstyria]] ist ein Zusammenschluss von mehr als 290 steirischen Unternehmen, die in der Automobil-, Bahn- und Luftfahrtindustrie tätig sind. Das Zentrum des Mobilitätsclusters ist die Landeshauptstadt Graz. Der größte Betrieb und Leitbetrieb ist der [[Magna International|Magna]]-Konzern. Im Mobilitätscluster gesamt erwirtschafteten 55.000 Personen im Jahr 2017 einen Umsatz von 15&nbsp;Milliarden Euro.
+
+In der Steiermark existiert mit dem „Green Tech [[Cluster (Wirtschaft)|Cluster]] Styria“<ref>[https://www.greentech.at/ Green Tech Cluster Styria]</ref> eines der größten Umwelttechniknetzwerke Europas, die die Platzierungen 2010 und 2012 als weltbester „Cleantech-Cluster“ anführte.<ref>{{Webarchiv |url=http://www.globalcleantechdirectory.com/ |text=2012 Global Cleantech Directory |wayback=20140103143528}}</ref> Das Umsatzwachstum der rund 180&nbsp;Netzwerkunternehmen in diesem „Green Tech Valley“ betrug zwischen 2006 und 2015 durchschnittlich 16,4 % pro Jahr, weiters kamen im Schnitt 1.000&nbsp;Beschäftigte im Bereich Umwelttechnik pro Jahr hinzu. Vom Gesamtumsatz mit 10,2&nbsp;Milliarden Euro wurden 3,6&nbsp;Milliarden Euro rein mit Umwelttechnik erzielt. Das entspricht rund 10 % vom Bruttoregionalprodukt der Steiermark und einer der höchsten Umwelttechnikkonzentrationen weltweit. Die Netzwerkunternehmen beschäftigten 39.300&nbsp;Menschen, davon die Hälfte im Bereich der [[Erneuerbare Energie|erneuerbaren Energie]] und Umwelttechnik. Zu den bekanntesten Unternehmen zählen die [[Andritz AG]], [[Roth (Unternehmen)|Roth]], KWB und das [[Joanneum Research]]. Der „Green Tech Cluster“ wurde mit dem ''Regiostars Award'' der [[Europäische Union|Europäischen Union]] 2012 für innovatives Wachstum und mit dem „Cluster Management Excellence Label“ in Gold ausgezeichnet.<ref>[https://www.greentech.at/ueber-uns/ Green Tech Cluster – Fakten]</ref>
+
+Für den „Green Tech Cluster“ wurde im Jänner 2022 eine Anzahl von 250 Firmen aufgeführt mit 2.000 Beschäftigten in der Forschung und 25.000 Beschäftigten in Umwelttechnik. Deren Gesamtumsatz wurde auf fünf Milliarden Euro beziffert.<ref>[https://www.greentech.at/ Startseite greentech.at], abgerufen am 18. Januar 2022</ref>
+
+=== Tourismus ===
+Die Obersteiermark, dabei besonders das [[Steirisches Salzkammergut|Steirische Salzkammergut]] und die Region [[Schladming–Dachstein]] sowie das [[Thermen- & Vulkanland Steiermark]] und die [[Oststeiermark (Planungsregion)|Oststeiermark]] sind wichtige Tourismusregionen. Hohe Übernachtungszahlen verzeichnet auch die Landeshauptstadt Graz mit ihrem Umland.
+
+Im Jahr 2017 wurden in der gesamten Steiermark knapp 12.821.161 Übernachtungen gezählt, was einem Plus von 3,5 % gegenüber dem Vorjahr entspricht. Von den Gästen waren 59,1 % Inländer und 40,9 % Ausländer. Bei den Herkunftsländern liegt mit 2.539.992 Nächtigungen Deutschland weit vor den anderen Herkunftsländern, danach folgen Ungarn (481.820), Tschechische Republik (343.697) und die Niederlande (271.379).
+
+Aus touristischen Gründen wurde für den östlichen Teil der Obersteiermark die Bezeichnung [[Hochsteiermark]] geschaffen, die als Tourismusregion [[Marketing|vermarktet]] wird.<ref>Vgl. [http://www.hochsteiermark.at/ hochsteiermark.at].</ref> Mit der [[Südsteiermark]] beheimatet das [[Das grüne Herz Österreichs|grüne Herz Österreichs]], wie die Steiermark auch genannt wird, eine der wohl bekanntesten Tourismusregionen Österreichs. Besonders bekannt ist diese Region für den Wein und die Weinstraßen wie die [[Steirische Weinstraßen|Südsteirische Weinstraße]].
+
+=== Verkehr ===
+[[Datei:Graz Hauptbahnhof Halle.jpg|mini|Bahnhofshalle des Grazer Hauptbahnhofs]]
+[[Datei:Steiermarkbahn 5062 001.jpg|mini|[[Stadler GTW 4. Generation]] 5062&nbsp;001 der [[Steiermarkbahn und Bus|Steiermarkbahn und Bus GmbH]] als S31 in [[Graz Hauptbahnhof]]]]
+[[Datei:5022 052 Graz Hbf.jpg|mini|[[ÖBB 5022]] als S3 in [[Graz Hauptbahnhof]]]]
+
+==== Öffentlicher Verkehr ====
+[[Datei:Bahnnetz Steiermark.svg|mini|Bahnnetz der Steiermark]]
+Die wichtigste Bahnlinie in der Steiermark ist die [[Südbahn (Österreich)|Südbahn]] von Wien über das UNESCO-Weltkulturerbe [[Semmeringbahn]] und den Bahnknoten [[Bahnhof Bruck an der Mur|Bruck an der Mur]] durch die steirische Landeshauptstadt Graz an die österreichisch-slowenische Grenze bei [[Spielfeld (Steiermark)|Spielfeld]] führt. Auf dieser Strecke gibt es stündliche Verbindungen zwischen Graz und Wien mit [[EuroCity]]-Zügen und [[Railjet (Zuggattung)|Railjets]].
+
+Eine weitere bedeutende Bahnstrecke ist die [[Rudolfsbahn]] von [[St. Valentin (Niederösterreich)|Sankt Valentin]] in [[Niederösterreich]] nach [[Tarvis]] in [[Italien]]. In der Steiermark befinden sich an dieser Strecke der [[Bahnhof Selzthal|Bahnknoten Selzthal]], an dem über die [[Pyhrnbahn]] Anschluss nach [[Linz]] und über die [[Ennstalbahn]] nach [[Salzburg]] besteht, der [[Leoben Hauptbahnhof|Knoten Leoben]], an dem über eine kurze Strecke eine Verbindung zur Südbahn bei Bruck an der Mur besteht, sowie die Städte [[Knittelfeld]], [[Zeltweg]] und [[Judenburg]]. Bei [[Neumarkt in der Steiermark]] erreicht die Bahnstrecke die Landesgrenze zu Kärnten. Teile der Rudolfsbahn werden unter anderem auf den Relationen von Graz nach Salzburg und von Wien nach [[Klagenfurt am Wörthersee]] befahren.
+
+Die Weststeiermark wird durch die [[Graz-Köflacher Bahn und Busbetrieb|Graz-Köflacher Bahn]] mit den beiden Linien [[Köflacherbahn]]&nbsp;S7, [[Wieserbahn]]&nbsp;S61 und der Linie&nbsp;S6 über Kalsdorf und den [[Hengsbergtunnel]] zur Wieserbahn erschlossen.
+
+Die [[Koralmbahn]], die eine direkte Verbindung zwischen Graz und der Kärntner Landeshauptstadt Klagenfurt herstellen soll, ist derzeit im Bau. Die Strecke, deren Herzstück der 33&nbsp;Kilometer lange [[Koralmtunnel]] sein soll, wird voraussichtlich bis zum Jahr 2026 fertiggestellt und läuft zum Teil entlang der [[Wieserbahn]].
+
+Internationale Zugverbindungen, die über die Steiermark führen, sind etwa die Relationen von Wien nach [[Ljubljana]] (über Graz), von Wien nach [[Zagreb]] (über Graz), von Graz nach [[Zürich]], von Graz nach [[Budapest]], von Graz nach [[Frankfurt am Main]] sowie von Graz nach [[Saarbrücken]]. Bedeutende österreichische Städte, in die Direktverbindungen von Graz bestehen, sind unter anderem [[Innsbruck]], [[Salzburg]] und [[Wien]].
+
+Bahnstrecken von untergeordneter Bedeutung, die regelmäßig von Regionalzügen oder S-Bahnen im Personenverkehr befahren werden, sind:
+* die [[Steirische Ostbahn]],
+* die [[Landesbahn Gleisdorf–Weiz]],
+* die [[Radkersburger Bahn]],
+* die [[Landesbahn Feldbach–Bad Gleichenberg]],
+* die [[Köflacherbahn]] und die [[Wieserbahn]],
+* die [[Lokalbahn Peggau–Übelbach]],
+* die [[Murtalbahn]] und
+* die [[Thermenbahn]].
+Auf manchen Bahnstrecken wie der [[Lokalbahn Mixnitz–Sankt Erhard]] und der [[Feistritztalbahn]] findet planmäßig nur noch Güterverkehr statt. Die [[Erzbergbahn]] und die [[Stainzerbahn]] verkehren nur noch als [[Museumsbahn]]en.
+
+Die S-Bahn Steiermark wurde im Dezember 2007 mit sechs Linien eröffnet und ist noch in der Ausbauphase. An diesem Projekt wird seit 1998 gearbeitet. Die Inbetriebnahme erfolgte am 9. Dezember 2007, und die Fertigstellung soll bis 2026 erfolgen. Die S-Bahn bietet bessere Verbindungen im 15-Minuten-Takt. Insgesamt werden im Vollbetrieb bis zu zwölf (aktuell elf, Gleichenberger Bahn&nbsp;S32 nach Ostbahn-Elektrifizierung geplant) S-Bahn-Linien in den Großräumen Graz und Obersteirischer Zentralraum im Einsatz sein. Die S-Bahn ist eine Kooperation zwischen den Bahngesellschaften [[Österreichische Bundesbahnen|ÖBB]], [[Steiermärkische Landesbahnen|StB]] und [[Graz-Köflacher Eisenbahn|GKB]].
+
+{{Siehe auch|S-Bahn Steiermark}}
+
+==== Fernstraßen ====
+[[Datei:A2 Lassnitzhöhe Graz Ost Sommer 2005.jpg|mini|Süd Autobahn zwischen [[Laßnitzhöhe]] und Graz]]
+Durch die Steiermark führen derzeit zwei Autobahnen und vier Schnellstraßen.
+* Die [[Süd Autobahn]] A&nbsp;2 führt von Wien über den [[Wechsel (Berg)|Wechsel]], Graz, die Pack, Klagenfurt an die Staatsgrenze zu Italien bei [[Arnoldstein]]. Der Abschnitt Gleisdorf–Graz–Mooskirchen war der erste Autobahnabschnitt in der Steiermark, er wurde schon anfangs sechsspurig gebaut (schmaler Pannenstreifen).
+* Die [[Pyhrn Autobahn]] A&nbsp;9 führt vom oberösterreichischen [[Knoten Voralpenkreuz]] durch den [[maut]]pflichtigen [[Bosrucktunnel]] in das [[Steirisches Ennstal|steirische Ennstal]], über das [[Palten]]- und [[Liesing (Mur)|Liesingtal]] und den mautpflichtigen [[Gleinalmtunnel]] über Graz (die Stadt wird durch den [[Plabutschtunnel]] großteils umfahren) bis nach [[Spielfeld (Steiermark)|Spielfeld]] an der Grenze zu Slowenien.
+* Die [[Semmering Schnellstraße]] S&nbsp;6 verbindet die Süd-Autobahn beim niederösterreichischen Knoten Seebenstein über den Semmering mit dem Autobahnknoten St.&nbsp;Michael an der Pyhrnautobahn.
+* Die [[Fürstenfelder Schnellstraße]] S&nbsp;7 führt vom Knoten [[Großwilfersdorf|Riegersdorf]] der A&nbsp;2 in das südliche [[Lafnitztal]], eine Weiterführung zum [[Grenze zwischen Österreich und Ungarn|österreichisch-ungarischen]] Grenzübergang [[Heiligenkreuz im Lafnitztal|Heiligenkreuz]] ist in Bau{{Zukunft|2025}}.
+* Die [[Brucker Schnellstraße]] S&nbsp;35 führt entlang des mittleren Abschnitts der [[Mur (Fluss)|Mur]] und verbindet den Ballungsraum [[Mur-Mürz-Furche]] mit der Hauptstadt Graz. Sie beginnt am Knoten Bruck und mündet am Knoten [[Deutschfeistritz]] in die [[Pyhrn Autobahn]] A&nbsp;9.
+* Die [[Murtal Schnellstraße]] S&nbsp;36 führt vom Autobahnknoten St.&nbsp;Michael bis Judenburg-West, soll aber bis [[Scheifling]] verlängert werden, wo sie mit der ebenfalls geplanten [[Klagenfurter Schnellstraße]] S&nbsp;37 zusammenschließen soll.
+
+Im Jahr 2017 lag der [[Motorisierungsgrad]] (Personenkraftwagen pro 1.000&nbsp;Einwohner) bei&nbsp;602.<ref>[http://www.statistik.at/web_de/presse/116255.html statistik.at]</ref>
+
+==== Radverkehr ====
+[[Datei:Graz Fahrrad Wegweiser.JPG|mini|Wegweiser für Radfahrer in Graz]]
+In der steirischen Hauptstadt Graz ist der Radverkehr mit 16 % Anteil an der [[Modal Split|Verkehrsmittelwahl]]&nbsp;– für österreichische Verhältnisse&nbsp;– sehr stark ausgeprägt. In der gesamten Steiermark beträgt der Anteil des Radverkehrs am Verkehrsaufkommen rund 6 % und liegt damit in etwa im gesamtösterreichischen Durchschnitt. In der ''Strategie Radverkehr Steiermark 2008–2012'' des Landes Steiermark wird als Ziel für das Jahr 2012 eine Verdopplung des Radverkehrsanteils auf 12 % angegeben. Besonders das [[Radfahren]] im Alltag soll damit gefördert werden.
+
+Eine große Bedeutung hat der Radtourismus in der Steiermark. Der [[Murradweg]], der zum größten Teil auf steirischem Gebiet, und zwar von [[Predlitz]] an der Grenze zum [[Lungau]] bis an die steirisch-slowenische Grenze bei [[Bad Radkersburg]] verläuft, ist der bedeutendste touristische Radweg des Landes. Insgesamt gibt es in der Steiermark über 2000&nbsp;Kilometer überregionale Radwege.
+{{Absatz}}
+
+==== Flughafen Graz ====
+[[Datei:McDonnell Douglas MD-90-30 Hello Airplane- 001.jpg|mini|MD-90 am [[Flughafen Graz]]]]
+{{Hauptartikel|Flughafen Graz}}
+
+Etwa 10&nbsp;km südlich des Grazer Stadtzentrums liegt der mit Autobus und Bahn erreichbare Flughafen Graz. Gemessen am Passagieraufkommen im Linienverkehr ist er nach Wien und Salzburg der drittgrößte Flughafen Österreichs und liegt auch im Frachtaufkommen in Österreich auf Platz drei. [[Austrian Airlines]] bieten Direktverbindungen nach Düsseldorf, Frankfurt, Stuttgart und Wien an, [[KLM Royal Dutch Airlines|KLM]] nach Amsterdam, [[Lufthansa]] nach München, [[Swiss]] nach Zürich und Turkish Airlines nach Istanbul.
+
+Im [[Charterverkehr|Bedarfsverkehr]] werden vor allem Ferienziele am [[Mittelmeer]] angeflogen.
+
+Am Flughafen befindet sich seit 1981 auch das [[Österreichisches Luftfahrtmuseum|österreichische Luftfahrtmuseum]].
+
+=== Bildungswesen (Schuljahr 2012/13) ===
+* Vorschulisch:
+** Kinderkrippen: 155 (2.508 Kinder)
+** Kindergärten: 704 (27.413 Kinder)
+** Horte: 63 (2.584 Kinder)
+** Altersgemischte Betreuungseinrichtungen: 14 (522&nbsp;Kinder)
+
+* Pflichtschulen:
+** Volksschulen: 484 (43.645 Schüler)
+** Hauptschulen: 139 (19.068 Schüler)
+** Sonderschulen 24 (676 Schüler)
+** Polytechnische Schulen: 42 (2.233 Schüler)
+** Neue Mittelschulen: 107 (10.805 Schüler)
+
+* Weiterführende Schulen:
+** Allgemeinbildende Höhere Schulen: 48 (27.112 Schüler)
+** Berufsbildende Pflichtschulen: 20 (18.882 Schüler)
+** Berufsbildende mittlere Schulen: 69 (5.576 Schüler)
+** Berufsbildende höhere Schulen: 43 (17.441 Schüler)
+** Lehrerbildende mittlere und höhere Schulen: 8 (2.507&nbsp;Schüler)
+** Schulen im Gesundheitswesen: 35 (3.693 Schüler)
+
+* Universitäten (Wintersemester 2017/18<ref name="bip" />):
+** [[Universität Graz]]: 30.130 Studierende
+** [[Medizinische Universität Graz]]: 3.732 Studierende
+** [[Technische Universität Graz]]: 16.247 Studierende
+** [[Montanuniversität Leoben]]: 3.811 Studierende
+** [[Universität für Musik und darstellende Kunst Graz]]: 1.880&nbsp;Studierende
+** [[Pädagogische Hochschule]]n: 1.999 Studierende
+
+* Fachhochschulen:
+** Campus 02 Fachhochschule der Wirtschaft Steiermark: 1.167&nbsp;Studierende
+** [[FH Joanneum]]: 4.637 Studierende (2019)<ref>{{Internetquelle |autor=uni:data |url=https://suasprod.noc-science.at/XLCubedWeb/WebForm/ShowReport.aspx?rep=004+studierende/002a+fachhochschulen/080+ordentliche+studierende+an+fhs+nach+schulform.xml&toolbar=true |titel=Ordentliche Studierende an Fachhochschul-Studiengängen nach Schulformen – Datenaufbereitung: bmbwf, Abt.&nbsp;IV/10 |werk= |hrsg=Quelle: AQ Austria auf Basis BiDokVFH |datum=2018-11-15 |abruf=2019-04-08}}</ref>
+{{Absatz}}
+
+== Kunst und Kultur ==
+[[Datei:Rosegger3.jpg|mini|[[Peter Rosegger]] (1843–1918)]]
+Die Steiermark war bereits im Mittelalter ein kulturelles Zentrum. [[Ulrich von Liechtenstein]] (1200–1275) war einer der bedeutendsten [[Minnesänger]]; die [[Steirische Reimchronik]] aus der Zeit um 1300 gilt als erstes umfassendes Geschichtswerk in deutscher Sprache.
+
+Im Bereich der Literatur ist insbesondere [[Peter Rosegger]] zu nennen, dessen sozialkritische Romane meist in seiner obersteirischen Heimat spielen, daneben im frühen 20.&nbsp;Jahrhundert auch [[Ottokar Kernstock]], [[Franz Nabl]] und [[Max Mell]]. Seit Beginn der 1960er Jahre ist Graz ein bedeutender Kristallisationspunkt der zeitgenössischen österreichischen Literatur: Um das [[Forum Stadtpark]] und die Zeitschrift [[manuskripte]] gruppierten sich Autoren und Autorinnen wie [[Elfriede Jelinek]], [[Alfred Kolleritsch]], [[Wolfgang Bauer (Autor)|Wolfgang Bauer]] und [[Peter Handke]]. [[Reinhard P. Gruber]] hat mit seinem Roman ''[[Aus dem Leben Hödlmosers]]'' der Steiermark ein satirisches Denkmal gesetzt.
+
+Die Komponisten [[Hugo Wolf]], [[Johann Joseph Fux]] und [[Robert Stolz]] stammen aus der Steiermark. Das klassische Musikfestival [[Styriarte]] findet seit 1985 jährlich statt. Im Bereich der populären Musik sind Künstler wie [[S.T.S.]] und [[Andreas Gabalier]] sowie [[Erste Allgemeine Verunsicherung|EAV]] zu internationaler Bekanntheit gelangt.
+
+In der Steiermark wird das kulturelle Leben maßgeblich durch regelmäßige Veranstaltungen wie die [[Regionale (Steiermark)|Regionale]], die die früheren [[Steirische Landesausstellung|steirischen Landesausstellungen]] abgelöst hat, das Filmfestival [[Diagonale (Filmfestival)|Diagonale]] und den [[Steirischer Herbst|Steirischen Herbst]] geprägt.
+
+Mit dem 1811 von Erzherzog Johann, dem späteren deutschen [[Reichsverweser 1848/1849|Reichsverweser]], gegründeten [[Universalmuseum Joanneum]] (vormals Landesmuseum Joanneum) beheimatet die Steiermark ein Museum mit zehn Standorten und 17&nbsp;Museen&nbsp;– darunter etwa das [[Kunsthaus Graz]], [[Schloss Eggenberg (Graz)|Schloss Eggenberg]], das [[Landeszeughaus]], das [[Schloss Trautenfels|Landschaftsmuseum Schloss Trautenfels]], [[Schloss Stainz]] mit seinem Jagd- und Landwirtschaftsmuseum und dem 2011 eröffneten Joanneumsviertel, in dem sich auch die [[Neue Galerie Graz]] befindet.<ref>[http://www.museum-joanneum.at/ museum-joanneum.at]</ref>
+
+Darüber hinaus verfügt die Steiermark über eine lebendige Volkskultur. Durch die Bemühungen Erzherzog Johanns und bedeutender Gelehrter wie [[Viktor Geramb]] und [[Konrad Mautner]] wurde sehr viel Kulturgut erhalten, welches in anderen Teilen Mitteleuropas verloren ging. Volksmusik, Tracht ([[Steireranzug]]) und Volkstanz werden im Land gepflegt. Veranstaltungen wie [[Aufsteirern]] und das [[Narzissenfest]] sind in diesem Zusammenhang erwähnenswert.
+
+=== Sehenswürdigkeiten ===
+[[Datei:Stubing 2.jpg|mini|Alte Schmiede im [[Österreichisches Freilichtmuseum|Österreichischen Freilichtmuseum]] in Stübing bei Graz]]
+[[Datei:Burg Riegersburg (Steiermark).jpg|mini|Die [[Riegersburg (Burg)|Riegersburg]]]]
+
+Zu den bekanntesten Sehenswürdigkeiten der Steiermark zählen
+* die größte Marien-[[Wallfahrtskirche]] Österreichs [[Basilika von Mariazell]],
+* der [[Erzberg]] in [[Eisenerz (Steiermark)|Eisenerz]],
+* das Benediktiner[[stift Admont]],
+* das weltweit älteste aktive Zisterzienser[[stift Rein]] (gegr.&nbsp;1129),
+* der [[Tier- und Naturpark Schloss Herberstein]],
+* das [[Bundesgestüt Piber]] der [[Lipizzaner]],
+* der [[Dachsteingebirge|Dachstein]],
+* das [[Österreichisches Freilichtmuseum|Österreichische Freilichtmuseum]] in Stübing bei Graz,
+* die [[Riegersburg (Burg)|Riegersburg]],
+* der [[Grüner See (Tragöß)|Grüne See]],
+* die [[Kulm (Skiflugschanze)|Skiflugschanze Kulm]] in [[Bad Mitterndorf|Bad Mitterndorf/Tauplitz]] sowie
+* die Landeshauptstadt Graz, deren Altstadt zum Weltkulturerbe zählt.
+
+Die bekannteste barocke Schlossanlage der Steiermark ist das [[Schloss Eggenberg (Graz)|Schloss Eggenberg]] in Graz, in dem heute die Alte Galerie des [[Universalmuseum Joanneum|Universalmuseums Joanneum]] untergebracht ist. Den Schlosspark besuchen im Jahr etwa eine Million zahlende Gäste.
+
+Der [[Tier- und Naturpark Schloss Herberstein]] ist ein Zoo in der steirischen Gemeinde Stubenberg am See, nahe St.&nbsp;Johann bei Herberstein mit einer Größe von ungefähr 40&nbsp;Hektar. Im Park befindet sich auch das Schloss Herberstein dessen Anfänge ins 12.&nbsp;Jahrhundert zurückreichen.
+
+Die größte Burg in der Steiermark ist die [[Riegersburg (Burg)|Riegersburg]], deren Anfänge ins 11.&nbsp;Jahrhundert zurückreichen. Sie befindet sich im gleichnamigen Ort, [[Riegersburg (Steiermark)|Riegersburg]] im [[Bezirk Südoststeiermark]]. Die zweitgrößte Burg ist die [[Burg Strechau]] in der Obersteiermark über [[Rottenmann]].
+
+Die [[Burg Oberkapfenberg]] in der Stadt Kapfenberg beherbergt heute eine Sammlung von historischen Waffen und eine Greifvogelschau. Die größte Festung der Steiermark war der [[Grazer Schloßberg]]. Die Festung steht als eine nie eingenommene Anlage im [[Guinness-Buch der Rekorde]]. Erst nachdem Napoleon Wien eroberte und mit der Zerstörung der Hauptstadt drohte, ergab sich der Schlossberg und französische Truppen schleiften den Großteil der Bauten.
+
+=== Kulinarik ===
+[[Datei:Leibnitz Silberberg 1 Fachschule für Obst- und Weinbau 22102020 0083.jpg|mini|Blick in die Weinberge der [[Südsteiermark]] bei [[Leibnitz]]]]
+
+Eine kulinarischen Spezialität der Steiermark ist das [[Kürbiskernöl|Kernöl]]. Die Bezeichnung ''Steirisches Kürbiskernöl'' ist seit 1992 ein geschütztes [[Marke (Recht)|Markenzeichen]].<ref>Vgl. {{Webarchiv |url=http://www.patentamt.at/Media/SteirischesKuerbiskernoel.pdf |text=patentamt.at |wayback=20131224145351}}.</ref> Weiters sind zu nennen [[Feuerbohne|Käferbohnen]], [[Schilcher]], [[Steirischer Junker]] und die Produkte der [[Zotter Schokolade]]n. Bekannte Brauerzeugnisse sind [[Brauerei Murau|Murauer]], Schladminger, [[Brauerei Puntigam|Puntigamer]], Reininghaus und [[Brauerei Göss|Gösser Bier]].
+
+Typisch steirische Weine<ref>https://www.steirische-spezialitaeten.at/wein/dac-weine-steiermark-suedsteiermark-vulkanland-weststeiermark.html</ref> werden aus den folgenden Rebsorten gewonnen: Welschriesling, Weißburgunder, Morillon, Sauvignon Blanc, Gelber Muskateller, Grauburgunder, Riesling und Traminer. Aus der Weststeiermark kommt der hellrot „schillernde“ [[Schilcher]].
+
+Zu den berühmten typisch steirischen Mahlzeiten zählt der [[Sterz]]. Dieser kann auf verschiedenste Arten zubereitet werden und wird zusammen mit Kaffee oder auch Suppen gegessen. So ist auch in dem zum Volkslied gewordenen Lied der [[Kern-Buam]] ''Da Steirische Brauch'' vom „(…)&nbsp;[[Türkensterz]] mit ana [[Pilzsuppe|Schwaumm’suppn]] drauf&nbsp;(…)“ die Rede.
+
+== Literatur ==
+* Heinz Held: ''Kärnten und Steiermark.'' DuMont Kunst-Reiseführer. 2.&nbsp;Auflage. DuMont Buchverlag, Köln 1981, ISBN 3-7701-1097-8.
+* Manfred Jasser: ''Hoch vom Dachstein an. Das Steiermark-Brevier.'' Paul Neff Verlag, Wien 1990, ISBN 3-7014-0131-4.
+* Hans Pirchegger: ''Geschichte der Steiermark''. Leykam Verlag, Graz 1996, ISBN 3-7011-7350-8.
+* Sigrid Rahm: ''Steiermark: ein Reiseführer.'' Styria Verlag, Graz 2008, ISBN 978-3-222-13242-1.
+* Gery Wolf, Reinhard P. Gruber: ''Steiermark. Ein Bildband''. Leykam Verlag, Graz 2009, ISBN 978-3-7011-7658-8.
+* Theodor Unger: ''Steirischer Wortschatz als Ergänzung zu Schmellers Bayerischem Wörterbuch.'' Für den Druck bearbeitet und hrsg. von Ferdinand Khull. Leuschner und Lubensky’s Universitätsbuchhandlung. Graz 1903. Reprint: Akademische Druck- und Verlagsanstalt. Graz 2009, ISBN 978-3-201-01898-2.
+* E. Baumgarten: ''Die Juden in der Steiermark. Eine historische Skizze.'' Wien 1903.
+
+; Atlanten zur Geschichte:
+* ''Atlas der Steiermark.'' Akademische Druck- und Verlagsanstalt Graz 1953–1970, zunächst herausgegeben 1949–1961 vom naturwissenschaftlichen Verein für Steiermark, danach 1961–1970 hrsg. von der Steiermärkischen Landesregierung unter Mitarbeit dieses Vereines. Wissenschaftliche Leitung 1949–1950 Robert Mayer, 1951–1961 [[Sieghard Morawetz]] und 1961–1970 Manfred Straka. Kartographische Leitung bzw. Redaktion 1951–1961 Wilhelm Wolf, 1961–1963 Heinrich Reschenhofer und 1963–1970 Manfred Straka.
+* ''Atlas zur Geschichte des steirischen Bauerntums.'' Wissenschaftliche Leitung: [[Fritz Posch]]. Kartographische Leitung: Manfred Straka. Redaktion: [[Gerhard Pferschy]] (= ''Veröffentlichungen des steiermärkischen Landesarchives.'' Band&nbsp;8). Akademische Druck- und Verlagsanstalt, Graz 1976, ISBN 3-201-01001-4.
+* ''Heimat-Atlas der Steiermark.'' Hrsg. vom Historischen Verein für Steiermark mit Unterstützung der Historischen Landeskommission für Steiermark. Verlag des Historischen Vereins für Steiermark. Graz 1946 (danach eingestellt, weiter siehe „Atlas der Steiermark“).
+
+== Weblinks ==
+{{Schwesterprojekte |commonscat=Styria |wikt=Steiermark |s=Steiermark |n=Portal:Steiermark |voy=Steiermark}}
+* {{Austriaforum|AEIOU/Steiermark}}
+* [https://www.verwaltung.steiermark.at/ Website des Landes Steiermark]
+* [https://www.steiermark.com/ Steiermark Tourismus]
+* [http://archive.org/stream/diejudeninsteie00baumgoog#page/n1/mode/2up/ Juden in der Steiermark]
+* {{DNB-Portal|4057092-7}}
+{{Absatz}}
+
+== Einzelnachweise ==
+<references responsive />
+
+{{NaviBlock<!-- sinnvoll, da die beiden Standardsortierungen dargestellt werden -->
+|Navigationsleiste Österreichische Bundesländer
+|Navigationsleiste NUTS:AT
+|Navigationsleiste Bezirke in der Steiermark
+|Navigationsleiste Raumplanungsregionen Steiermark
+}}
+
+{{Coordinate|NS=47/15//N|EW=15/20//E|region=AT-6|type=adm1st}}
+
+{{Normdaten|TYP=g|GND=4057092-7|LCCN=n50012303|VIAF=154251299}}
+
+[[Kategorie:Steiermark| ]]
+[[Kategorie:Bundesland in Österreich]]
+[[Kategorie:Historische Landschaft oder Region in Europa]]
+[[Kategorie:Österreichisches Kronland]]
+[[Kategorie:NUTS-2-Region]]
+[[Kategorie:Verwaltungseinheit als Namensgeber für einen Asteroiden]]
+
